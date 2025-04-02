@@ -1,0 +1,2 @@
+HOOKS=(systemd autodetect kms block filesystems)
+COMPRESSION="lz4"
