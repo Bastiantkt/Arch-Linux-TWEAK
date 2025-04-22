@@ -1,0 +1,21 @@
+TaskBarWorkspaceNames=0
+TaskBarShowWorkspaces=0
+TaskBarShowShowDesktopButton=0
+ShowTaskBar=0
+TaskBarShowStartMenu=0
+MENUS
+    AutoReloadMenus=0
+    ShowProgramsMenu=0
+    ShowSettingsMenu=0
+    ShowFocusModeMenu=0
+    ShowThemesMenu=0
+    ShowLogoutMenu=0
+    ShowHelp=0
+    ShowLogoutSubMenu=0
+    ShowAbout=0
+    ShowRun=0
+    ShowWindowList=0
+    MenuMaximalWidth=0
+    NestedThemeMenuMinNumber=0
+KeyWin=Alt
+
